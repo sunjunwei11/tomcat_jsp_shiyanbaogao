@@ -1,0 +1,40 @@
+#baogao_1{
+	height:100px;
+	background:-webkit-gradient(linear, 0% 0%, 0% 100%,from(#A9AACC), to(#f6f6f8));
+	}
+#baogao_head {
+	font-size:30px;
+	text-align:center;
+	color:#FBFAFA;
+	background-color:#9899BF;
+	margin-top:0px;
+	margin-bottom:0px;
+	}
+.head_english{
+	font-size:18px;
+	text-align:center;
+	color:#FBFAFA;	
+    margin-top:2px;
+	margin-bottom:0px;
+	}
+ul{
+	list-style-type:none;
+	background-color:#666;
+	margin-top:2px;
+	margin-bottom:0px;
+	
+	}
+li{
+	float:left;
+	color:#FDFDFD;
+	background-color:#8E85AB;
+	margin-left:70px;
+	margin-right:100px;
+	padding:3px 7px 3px 7px;
+	}
+#baogao_tijiao{
+	background-color:#C2BED2;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-top:0px;
+	}
